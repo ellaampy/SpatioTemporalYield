@@ -1,0 +1,25 @@
+name: tempcnn
+input_dim: 12
+kernel_size: 5
+hidden_dim: 64
+dropout: 0.178851
+batch_size: 64
+lr: 0.001040
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/tempcnn
+epochs: 100
+patience: 10
+
+
+
+# name: tempcnn
+# input_dim: 12
+# kernel_size: 5
+# hidden_dim: 128
+# dropout: 0.562937
+# batch_size: 64
+# lr: 0.000621
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/tempcnn2
+# epochs: 100
+# patience: 10

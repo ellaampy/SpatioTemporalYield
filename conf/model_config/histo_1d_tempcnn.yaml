@@ -1,0 +1,32 @@
+name: histo_1d_tempcnn
+num_layers: 4
+bidirectional: true
+use_layernorm: true
+num_classes: 1
+hidden_dim: 64
+dropout: 0.178851
+batch_size: 64
+lr: 0.001040
+kernel_size: 5
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d_tempcnn
+epochs: 100
+patience: 10
+
+
+
+# name: histo_1d_tempcnn
+# num_layers: 4
+# bidirectional: true
+# use_layernorm: true
+# num_classes: 1
+# hidden_dim: 128
+# dropout: 0.562937
+# batch_size: 64
+# lr: 0.000621
+# kernel_size: 5
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d_tempcnn2
+# epochs: 100
+# patience: 10
+

@@ -1,0 +1,28 @@
+name: pse_ltae
+pooling: min_max
+n_pixels: 500
+dropout: 0.2
+batch_size: 64
+lr: 0.001
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/pse_ltae
+positions: [88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 264, 272, 280, 288, 296]
+epochs: 60
+patience: 10
+
+
+
+
+# name: pse_ltae
+# pooling: min_max
+# n_pixels: 500
+# dropout: 0.974186
+# batch_size: 64
+# lr: 0.005379
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/pse_ltae
+# positions: [88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 264, 272, 280, 288, 296]
+# epochs: 60
+# patience: 10
+
+

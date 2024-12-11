@@ -1,0 +1,30 @@
+name: histo_1d_msresnet
+num_layers: 4
+bidirectional: true
+use_layernorm: true
+num_classes: 1
+hidden_dim: 128
+dropout: 0.712798
+batch_size: 256
+lr: 0.000493
+kernel_size: 5
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d_msresnet
+epochs: 40
+patience: 5
+
+
+# name: histo_1d_msresnet
+# num_layers: 4
+# bidirectional: true
+# use_layernorm: true
+# num_classes: 1
+# hidden_dim: 32
+# dropout: 0.373923
+# batch_size: 256
+# lr: 0.011189
+# kernel_size: 5
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d_msresnet2
+# epochs: 40
+# patience: 5

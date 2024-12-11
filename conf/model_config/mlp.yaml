@@ -1,0 +1,22 @@
+name: mlp
+hidden_dim1: 512
+hidden_dim2: 256
+dropout: 0.149200
+batch_size: 32
+lr: 0.000187
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/mlp
+epochs: 120
+patience: 10
+
+
+# name: mlp
+# hidden_dim1: 1024
+# hidden_dim2: 256
+# dropout: 0.154559
+# batch_size: 64
+# lr: 0.006511
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/mlp2
+# epochs: 120
+# patience: 10

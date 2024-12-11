@@ -1,0 +1,18 @@
+name: histo_3d
+dropout: 0.398342
+batch_size: 128
+lr: 0.003915
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_3d_seed
+epochs: 1  #50
+patience: 5
+
+
+# name: histo_3d
+# dropout: 0.482339
+# batch_size: 128
+# lr: 0.004605
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_3d_2
+# epochs: 50
+# patience: 5

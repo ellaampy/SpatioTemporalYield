@@ -1,0 +1,12 @@
+name: ltae
+d_k: 8
+n_heads: 2
+dropout: 0.354093
+batch_size: 128
+lr: 0.007541
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/ltae
+positions: [88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256, 264, 272, 280, 288, 296]
+epochs: 100
+patience: 10
+

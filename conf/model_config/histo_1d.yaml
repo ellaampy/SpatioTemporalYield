@@ -1,0 +1,30 @@
+name: histo_1d
+num_layers: 4
+bidirectional: true
+use_layernorm: true
+num_classes: 1
+hidden_dim: 512
+dropout: 0.936645
+batch_size: 256
+lr: 0.011043
+kernel_size: 5
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d
+epochs: 60
+patience: 5
+
+
+# name: histo_1d
+# num_layers: 7
+# bidirectional: true
+# use_layernorm: true
+# num_classes: 1
+# hidden_dim: 512
+# dropout: 0.348493
+# batch_size: 128
+# lr: 0.000176
+# kernel_size: 5
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/histo_1d_2
+# epochs: 60
+# patience: 5

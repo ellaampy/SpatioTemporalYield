@@ -1,0 +1,20 @@
+name: msresnet
+hidden_dim: 128
+dropout: 0.712798
+batch_size: 256
+lr: 0.000493
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/msresnet
+epochs: 40
+patience: 10
+
+
+# name: msresnet
+# hidden_dim: 32
+# dropout: 0.373923
+# batch_size: 256
+# lr: 0.011189
+# npy_path: /app/dev/spatial_encoding/data/pse
+# res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/msresnet2
+# epochs: 40
+# patience: 10

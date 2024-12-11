@@ -1,0 +1,10 @@
+name: inceptionTime
+hidden_dim: 128
+num_layers: 3
+batch_size: 32
+lr: 0.074758
+npy_path: /app/dev/spatial_encoding/data/pse
+res_dir: /app/dev/spatial_encoding/yield_prediction/results_same_data/inception
+epochs: 100
+patience: 10
+
