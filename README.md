@@ -33,7 +33,7 @@ Depending on the type of structure, a befitting machine learning model is applie
 The figure presents the percentage difference between observed and predicted crop yield for year 2021.
 Interested readers are encouraged to consult the main paper for additional evaluation metrics for the extensive list of models compared.
 <figure>
-  <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="500">
+  <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="400">
   <figcaption>Fig.4: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
 
