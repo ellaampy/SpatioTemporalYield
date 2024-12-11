@@ -25,7 +25,7 @@ predicting crop yields to determine our predictors. The figure below shows that 
 The workflow follows the compression or transformation of spatio-temporal information into other data structures.
 Depending on the type of structure, a befitting machine learning model is applied.
 <figure>
-  <img src="figs/experiment_setup.PNG" alt="Example Image" width="600">
+  <img src="figs/experiment_setup.PNG" alt="Example Image" width="500">
   <figcaption>Fig.3: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Depending on the type of structure, a befitting machine learning model is applie
 The figure presents the percentage difference between observed and predicted crop yield for year 2021.
 Interested readers are encouraged to consult the main paper for additional evaluation metrics for the extensive list of models compared.
 <figure>
-  <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="400">
+  <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="500">
   <figcaption>Fig.4: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
 
