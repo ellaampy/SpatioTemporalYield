@@ -25,7 +25,7 @@ predicting crop yields to determine our predictors. The figure below shows that 
 The workflow follows the compression or transformation of spatio-temporal information into other data structures.
 Depending on the type of structure, a befitting machine learning model is applied.
 <figure>
-  <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="500">
+  <img src="figs/experiment_setup.PNG" alt="Example Image" width="500">
   <figcaption>Fig.3: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
 
