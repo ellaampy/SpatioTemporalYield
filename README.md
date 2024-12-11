@@ -36,3 +36,6 @@ Interested readers are encouraged to consult the main paper for additional evalu
   <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="500">
   <figcaption>Fig.4: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
+
+## Acknowledgement
+-[Breizhcrop](https://github.com/MarcCoru/BreizhCrops)
