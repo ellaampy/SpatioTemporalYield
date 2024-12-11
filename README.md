@@ -16,7 +16,10 @@ predicting crop yields to determine our predictors. The figure below shows that 
 - Meterological factors (temperature and precipitation)
 - Spectral indices (NDVI and NDWI)
 
-![Example Image](https://example.com/image.png)
+<figure>
+  <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="500">
+  <figcaption>Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
+</figure>
 
 ## Experiment setup
 
