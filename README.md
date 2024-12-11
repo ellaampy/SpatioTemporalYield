@@ -18,7 +18,7 @@ predicting crop yields to determine our predictors. The figure below shows that 
 
 <figure>
   <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="500">
-  <figcaption>Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
+  <figcaption> Temporal variability in spectral reflectance, weather variables, and spectral indices for a pre-drought year (2011 -blue) and drought year (2012 - red) for a selected county in Nebraska. </figcaption>
 </figure>
 
 ## Experiment setup
