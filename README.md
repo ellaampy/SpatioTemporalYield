@@ -4,8 +4,10 @@ Crop yield information plays a pivotal role in ensuring food security. Advances 
 
 ## Study area
 The United States of America (USA) is the world’s largest producer of corn, accounting for approximately one-third of global production. We conduct a case study focusing on the USA’s top five corn-producing states: Iowa, Illinois, Indiana, Nebraska, and Minnesota.  Altogether, they accounted for over one-half of the USA’s corn(grain) production in 2021.
-
-![Example Image](figs/Figure8_yieldmap20122011.png)
+<figure>
+  <img src="figs/Figure8_yieldmap20122011.png" alt="Example Image" width="500">
+  <figcaption>Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
+</figure>
 
 ## Data
 The effectiveness of machine learning for crop yield prediction also depends on selecting the appropriate sets of features. We review selected studies that apply machine learning (ML) to remote sensing data for
