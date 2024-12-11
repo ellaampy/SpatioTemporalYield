@@ -6,7 +6,7 @@ Crop yield information plays a pivotal role in ensuring food security. Advances 
 The United States of America (USA) is the world’s largest producer of corn, accounting for approximately one-third of global production. We conduct a case study focusing on the USA’s top five corn-producing states: Iowa, Illinois, Indiana, Nebraska, and Minnesota.  Altogether, they accounted for over one-half of the USA’s corn(grain) production in 2021.
 <figure>
   <img src="figs/Figure8_yieldmap20122011.png" alt="Example Image" width="500">
-  <figcaption>Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
+  <figcaption>Fig.1 : Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
 </figure>
 
 ## Data
@@ -18,12 +18,16 @@ predicting crop yields to determine our predictors. The figure below shows that 
 
 <figure>
   <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="500">
-  <figcaption> Temporal variability in spectral reflectance, weather variables, and spectral indices for a pre-drought year (2011 -blue) and drought year (2012 - red) for a selected county in Nebraska. </figcaption>
+  <figcaption>Fig.2: Temporal variability in spectral reflectance, weather variables, and spectral indices for a pre-drought year (2011 -blue) and drought year (2012 - red) for a selected county in Nebraska. </figcaption>
 </figure>
 
 ## Experiment setup
-
-![Example Image](https://example.com/image.png)
+The workflow follows the compression or transformation of spatio-temporal information into other data structures.
+Depending on the type of structure, a befitting machine learning model is applied.
+<figure>
+  <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="500">
+  <figcaption>Fig.3: experiment_setup.PNG</figcaption>
+</figure>
 
 ## Results
 The figure presents the percentage difference between observed and predicted crop yield for year 2021.
