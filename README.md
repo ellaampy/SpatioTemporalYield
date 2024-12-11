@@ -7,12 +7,12 @@ The United States of America (USA) is the world’s largest producer of corn, ac
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure>
-    <img src="image1.png" alt="Image 1" style="width:45%;">
-    <figcaption>Figure 1: Description of image 1</figcaption>
+    <img src="figs/Figure8_yieldmap20122011.png" alt="Image 1" style="width:45%;">
+    <figcaption>Map of the study area showing the difference in corn yield for 2012(drought) and 2011 (predrought) </figcaption>
   </figure>
   <figure>
-    <img src="image2.png" alt="Image 2" style="width:45%;">
-    <figcaption>Figure 2: Description of image 2</figcaption>
+    <img src="figs/Figure9_yield_summary.png" alt="Image 2" style="width:45%;">
+    <figcaption>Yearly corn yield statistics per state</figcaption>
   </figure>
 </div>
 
