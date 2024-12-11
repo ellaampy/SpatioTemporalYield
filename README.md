@@ -38,4 +38,6 @@ Interested readers are encouraged to consult the main paper for additional evalu
 </figure>
 
 ## Acknowledgement
--[Breizhcrop](https://github.com/MarcCoru/BreizhCrops)
+Model implementations from this work are sourced from:
+- [Breizhcrop](https://github.com/MarcCoru/BreizhCrops)
+- [PyCrop](https://github.com/gabrieltseng/pycrop-yield-prediction)
