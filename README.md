@@ -16,8 +16,7 @@ The United States of America (USA) is the world’s largest producer of corn, ac
 </figure>
 
 ## Data
-The effectiveness of machine learning for crop yield prediction also depends on selecting the appropriate sets of features. We review selected studies that apply machine learning (ML) to remote sensing data for
-predicting crop yields to determine our predictors. The figure below shows that the selected features adequately captures variations in yield. 
+The effectiveness of machine learning for crop yield prediction also depends on selecting the appropriate sets of features. We review selected studies that apply machine learning (ML) to remote sensing data for predicting crop yields to determine our predictors. The figure below shows that the selected features adequately captures variations in yield. 
 - MODIS surface reflectance (MODIS 
 - Meterological factors (temperature and precipitation)
 - Spectral indices (NDVI and NDWI)
@@ -26,6 +25,8 @@ predicting crop yields to determine our predictors. The figure below shows that 
   <img src="figs/Figure10_comparing_profiles.png" alt="Example Image" width="400">
   <figcaption>Fig.2: Temporal variability in spectral reflectance, weather variables, and spectral indices for a pre-drought year (2011 -blue) and drought year (2012 - red) for a selected county in Nebraska. </figcaption>
 </figure>
+
+The data used for the study is available here (please check back later). 
 
 ## Experiment setup
 The workflow follows the compression or transformation of spatio-temporal information into other data structures.
@@ -42,6 +43,15 @@ Interested readers are encouraged to consult the main paper for additional evalu
   <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="500">
   <figcaption>Fig.4: Demonstrating the data preparation workflow and experiment setup </figcaption>
 </figure>
+
+
+## Citation
+Please cite our work as:
+```
+TBD
+}
+```
+
 
 ## Acknowledgement
 Model implementations from this work are sourced from:
