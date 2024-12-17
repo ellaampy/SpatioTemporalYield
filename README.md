@@ -6,7 +6,7 @@ Crop yield information plays a pivotal role in ensuring food security. Advances 
 - conf - configuration management files for the experiments
 - data_preparation - dataset classes for transforming data (time x channel x pixels) into different data structures
 - models - model classes for classical and deep learning architectures
-- train_XXX.py - scripts to execute training of deep learning models
+- train_XXX.py - scripts to execute training of deep learning models according to input data structure
 
 ## Study area
 The United States of America (USA) is the world’s largest producer of corn, accounting for approximately one-third of global production. We conduct a case study focusing on the USA’s top five corn-producing states: Iowa, Illinois, Indiana, Nebraska, and Minnesota.  Altogether, they accounted for over one-half of the USA’s corn(grain) production in 2021.
@@ -50,7 +50,7 @@ Interested readers are encouraged to consult the main paper for additional evalu
 Please cite our work as:
 ```
 TBD
-}
+
 ```
 
 
