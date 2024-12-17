@@ -26,6 +26,7 @@ The effectiveness of machine learning for crop yield prediction also depends on 
   <figcaption>Fig.2: Temporal variability in spectral reflectance, weather variables, and spectral indices for a pre-drought year (2011 -blue) and drought year (2012 - red) for a selected county in Nebraska. </figcaption>
 </figure>
 
+### Data download
 The data used for the study is available here (please check back later). 
 
 ## Experiment setup
