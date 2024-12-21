@@ -1,7 +1,6 @@
 from torch import nn
 import torch.nn.functional as F
 import torch
-from torch.nn.modules.transformer import TransformerEncoder, TransformerEncoderLayer
 from torch.nn.modules import LayerNorm, Linear, Sequential, ReLU
 
 
