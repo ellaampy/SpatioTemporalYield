@@ -58,3 +58,5 @@ TBD
 Model implementations from this work are sourced from:
 - [Breizhcrop](https://github.com/MarcCoru/BreizhCrops)
 - [PyCrop](https://github.com/gabrieltseng/pycrop-yield-prediction)
+- [InceptionTime](https://github.com/hfawaz/InceptionTime)
+- [PSE-LTAE](https://github.com/VSainteuf/lightweight-temporal-attention-pytorch)
