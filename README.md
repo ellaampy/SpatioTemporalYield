@@ -27,7 +27,7 @@ The effectiveness of machine learning for crop yield prediction also depends on 
 </figure>
 
 ### Data download
-The data used for the study is available here (please check back later). 
+The data used for the study is available on [huggingface](https://huggingface.co/datasets/ellaampy/SpatioTemporalYield). 
 
 ## Experiment setup
 The workflow follows the compression or transformation of spatio-temporal information into other data structures.
@@ -38,7 +38,7 @@ Depending on the type of structure, a befitting machine learning model is applie
 </figure>
 
 ## Results
-The figure presents the percentage difference between observed and predicted crop yield for year 2021.
+The figure presents the percentage difference between observed and predicted crop yield for the year 2021.
 Interested readers are encouraged to consult the main paper for additional evaluation metrics for the extensive list of models compared.
 <figure>
   <img src="figs/Figure15_prediction_maps.png" alt="Example Image" width="500">
