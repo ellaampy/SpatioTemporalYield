@@ -13,7 +13,7 @@ from data_preparation.utils_deeplearning import *
 class YDataset_Hist(data.Dataset):
     def __init__(self, npy_path, label_path, norm_path,
                   lookup=None, mode=None, seed=0, start_doy_idx=11, 
-                  end_doy_idx=38, feature_idx =list(range(15))):
+                  end_doy_idx=38, feature_idx =list(range(12))):
         """
         
         Args:
@@ -119,7 +119,7 @@ class YDataset_Hist(data.Dataset):
 
 # dataset =  YDataset_Hist(npy_path, label_path, norm_path,
 #                   lookup=[2020], mode=mode, seed=0, start_doy_idx=11, 
-#                   end_doy_idx=38, feature_idx =list(range(15)))
+#                   end_doy_idx=38, feature_idx =list(range(12)))
 
 # # Print dataset length
 # print(f"Dataset length: {len(dataset)}")
