@@ -13,8 +13,8 @@ from data_preparation.utils_deeplearning import *
 class YDataset(data.Dataset):
     def __init__(self, npy_path, label_path, norm_path,
                   lookup=None, mode=None, seed=0, start_doy_idx=11, 
-                  end_doy_idx=38, ignore_features= [9,10,11], 
-                  kernel=3, feature_idx =list(range(15)), 
+                  end_doy_idx=38, ignore_features= [9], 
+                  kernel=3, feature_idx =list(range(12)), 
                   smooth = True):
         """
         
@@ -111,8 +111,8 @@ class YDataset(data.Dataset):
 # # Initialize YieldDataset with various parameters
 # dataset = YDataset(npy_path, label_path, norm_path= norm_path, 
 #                   lookup=[2020], mode='validation', seed=0, start_doy_idx=11, 
-#                   end_doy_idx=38, ignore_features= [9,10,11], 
-#                   kernel=3, feature_idx =list(range(15)), 
+#                   end_doy_idx=38, ignore_features= [9], 
+#                   kernel=3, feature_idx =list(range(12)), 
 #                   smooth = True)
 
 # # Print dataset length
